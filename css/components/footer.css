@@ -1,0 +1,68 @@
+.footer {
+  padding: 25px 0;
+  background-color: #2f303a;
+  color: #fffafa;
+}
+.footer-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gainsboro;
+  @media (min-width: 1024px) {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+.footer-contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.field {
+  position: relative;
+}
+.field-label {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  font-size: 0.85em;
+  color: grey;
+  transition: 0.2s ease-in-out;
+}
+.field-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+  outline: none;
+  background-color: transparent;
+  color: rgb(233, 229, 229);
+}
+.field-input:focus + .field-label,
+.field-input:not(:placeholder-shown) + .field-label {
+  color: rgb(233, 229, 229);
+  transform: scale(0.9) translate(-0.5em, -2.3em);
+}
+.field-input:focus {
+  border-color: rgb(233, 229, 229);
+}
+textarea.field-input {
+  width: 100%;
+  max-width: 230px;
+  resize: none;
+}
+.footer-thumb {
+  padding: 20px;
+  text-align: center;
+}

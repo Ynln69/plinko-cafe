@@ -1,0 +1,147 @@
+{
+  "header": {
+    "link1": "Privacy Policy",
+    "link2": "Terms and Conditions",
+    "link3": "Cookie Policy",
+    "link4": "Contact"
+  },
+  "hero": {
+    "mainTitle": "Plinko Game",
+    "text": "A unique game developed by our team",
+    "heroBtn": "Learn more"
+  },
+  "servisesHome": {
+    "title": "Our Services",
+    "desc": "We provide a wide range of services to our customers. We guarantee your satisfaction by delivering the highest quality service.",
+    "aboutBtn": "Learn more"
+  },
+  "aboutHome": {
+    "title": "Who we are",
+    "desc": "We are a team that offers unique themed games and services. Our customer-focused solutions aim to provide you with the best experience.",
+    "aboutBtn": "Get to know us better"
+  },
+  "aboutPage": {
+    "mainTitle1": "Who We Are",
+    "desc1": "We are a team specialized in unique games and services. Our projects are based on a deep understanding of the entertainment market and are focused on providing unforgettable experiences to every user.",
+
+    "mainTitle": "Our Advantages",
+    "desc": "At PlinkoProduct, our goal is to provide the best service to our customers. With our experience and the services we offer, we are committed to delivering the most suitable solutions to meet the needs of our users. We continuously improve ourselves to ensure you experience the best quality and unique experiences in Turkey.",
+
+    "title1": "The Best Experience in Turkey",
+    "title2": "Unforgettable Experiences",
+    "title3": "Types of Cookies We Use:",
+    "title4": "Regular Updates",
+    "title5": "User-Friendly Interface",
+
+    "text1": "We offer high-quality products and services that meet the highest standards.",
+    "text2": "We create moments that leave lasting impressions.",
+    "text3": "We are always connected and ready to assist you at any time.",
+    "text4": "We continuously improve our services and add new features.",
+    "text5": "Our solutions are intuitive and easy to use, accessible to everyone."
+  },
+
+  "servisesPage": {
+    "mainTitle": "How We Work",
+    "mainText": "We provide comprehensive services that meet the needs of our clients. Our team guarantees the highest quality and timely delivery by applying a personalized approach to each project.",
+
+    "title1": "What We Offer",
+
+    "item1": "Needs Analysis: We investigate your requirements and recommend the best solutions.",
+    "item2": "Design: We create a plan to develop custom solutions for you.",
+    "item3": "Implementation: We professionally execute the project.",
+    "item4": "Delivery: We deliver the finished products on time.",
+    "item5": "Custom Solutions: We develop unique products and services tailored to your needs and expectations.",
+    "item6": "Fast Delivery: We deliver our products as quickly and securely as possible, so you can enjoy them right away.",
+    "item7": "Consulting and Support: We are always ready to answer all your questions and provide expert advice before and after purchase.",
+    "item8": "Regular Updates: We continuously improve our products and services, adding new features and capabilities.",
+
+    "btn": "Go to collection"
+  },
+  "cookie": {
+    "mainTitle": "Cookie Policy",
+
+    "title1": "What are cookies:",
+    "title2": "How we use cookies:",
+    "title3": "Types of cookies we use:",
+    "title4": "Managing cookies:",
+
+    "text1": "Effective date: January 1, 2024",
+    "text2": "PlinkoProduct.com uses cookies to enhance your experience on our website.",
+    "text3": "Cookies are small files stored on your device that improve the operation of the website.",
+    "text4": "You can manage cookies through your browser settings.",
+    "text5": "By using our website, you agree to the use of cookies as described in this policy. If you have any questions, please contact us at support@plinkoproduct.com.",
+
+    "item1": "To track website performance and usage.",
+    "item2": "To remember user settings.",
+    "item3": "Necessary cookies: Required for the basic functionality of the website.",
+    "item4": "Analytical cookies: Used to monitor website usage and improve performance."
+  },
+  "warunki": {
+    "mainTitle": "Terms and Conditions",
+
+    "title1": "1. General Rules:",
+    "title2": "2. Intellectual Property:",
+    "title3": "3. Responsibility:",
+    "title4": "4. Changes:",
+
+    "text1": "Effective date: January 1, 2024",
+    "text2": "Welcome to PlinkoProduct.com. By using our website, you agree to the following terms.",
+    "text3": "All content on this site is owned by PlinkoProduct.com. Any unauthorized use is prohibited.",
+    "text4": "We are not responsible for any damages arising from the use of our website.",
+    "text5": "We reserve the right to change these terms at any time. Continuing to use the site after changes means you accept the new terms.",
+    "text6": "If you have any questions, please contact us at support@plinkoproduct.com.",
+
+    "item1": "You must be at least 18 years old to use our services.",
+    "item2": "You agree to use the site in accordance with applicable laws."
+  },
+  "privacy": {
+    "mainTitle": "Privacy Policy",
+
+    "title1": "1. What information we collect:",
+    "title2": "2. How we use your information:",
+    "title3": "3. Sharing your information:",
+    "title4": "4. Cookies:",
+    "title5": "5. Data protection:",
+    "title6": "6. Your rights:",
+
+    "text1": "Effective date: January 1, 2024",
+    "text2": "PlinkoProduct.com (we, us, our) respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal data when you use our website.",
+    "text3": "We do not share your personal information with third parties except as required by law.",
+    "text4": "We use cookies to improve your experience on the site.",
+    "text5": "We take measures to protect your personal data.",
+    "text6": "You have the right to access or delete your personal information.",
+    "text7": "If you have any questions, please contact us at support@plinkoproduct.com.",
+
+    "item1": "Personal information you provide (name, email address, etc.).",
+    "item2": "Information collected through cookies.",
+    "item3": "To provide our services.",
+    "item4": "To improve user experience."
+  },
+  "footer": {
+    "link1": "Phone:",
+    "link2": "Email:",
+    "link3": "Address:",
+
+    "label1": "Your Name:",
+    "label2": "Email:",
+    "label3": "Your Message:",
+    "button": "Send",
+
+    "text": "Copyright © 2024 PlinkoProduct | All rights reserved."
+  },
+  "cookieBanner": {
+  "text": "This site uses cookies to improve your experience.",
+  "button": "Accept Cookies"
+},
+"thankYou": {
+  "title": "Thank You!",
+  "text": "Your message has been sent successfully. We will get back to you as soon as possible.",
+  "button": "Return to Homepage"
+},
+"contacts": {
+  "title": "Thank You!",
+  "text": "If you have any questions or suggestions, we would be happy to assist you. You can reach us using the form below or through the contact information provided.",
+  "text1": "Contact Information"
+}
+
+}

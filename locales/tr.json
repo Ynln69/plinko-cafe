@@ -1,0 +1,144 @@
+{
+  "header": {
+    "link1": "Gizlilik Politikası",
+    "link2": "Kullanım Şartları",
+    "link3": "Çerez Politikasıі",
+    "link4": "İletişim"
+  },
+  "hero": {
+    "mainTitle": "Plinko Game",
+    "text": "Kendi geliştirdiğimiz benzersiz bir oyun",
+    "heroBtn": "Daha fazla öğren"
+  },
+  "servisesHome": {
+    "title": "Hizmetlerimiz",
+    "desc": "Müşterilerimize geniş kapsamlı hizmetler sunuyoruz. En yüksek kalitede hizmet sağlayarak memnuniyetinizi garanti ediyoruz.",
+    "aboutBtn": "Daha fazla öğren"
+  },
+  "aboutHome": {
+    "title": "Avantajlarımız",
+    "desc": "Biz, benzersiz temalı oyunlar ve hizmetler sunan bir ekibiz. Müşteri odaklı çözümlerimiz ile size en iyi deneyimi sunmayı hedefliyoruz.",
+    "aboutBtn": "Bizi daha yakından tanıyın"
+  },
+  "aboutPage": {
+    "mainTitle1": "Kim Biziz",
+    "desc1": "Biz, benzersiz oyunlar ve hizmetler konusunda uzmanlaşmış bir ekibiz. Projelerimiz, eğlence pazarının derin bir anlayışına dayanır ve her kullanıcıya unutulmaz deneyimler sunmaya odaklanmıştır.",
+    "mainTitle": "Avantajlarımız",
+    "desc": "PlinkoProduct olarak, müşterilerimize en iyi hizmeti sunmayı hedefliyoruz. Deneyimlerimiz ve sunduğumuz hizmetlerle, kullanıcılarımızın ihtiyaçlarına en uygun çözümleri sunmaya kararlıyız. Türkiye'deki en iyi kaliteyi ve benzersiz deneyimleri yaşamanız için sürekli olarak kendimizi geliştiriyoruz.",
+
+    "title1": "Türkiye'deki en iyi deneyim",
+    "title2": "Unutulmaz deneyimler",
+    "title3": "Kullandığımız çerez türleri:",
+    "title4": "Düzenli güncellemeler",
+    "title5": "Kullanıcı dostu arayüz",
+
+    "text1": "En yüksek standartlara uygun yüksek kaliteli ürünler ve hizmetler sunuyoruz.",
+    "text2": "Hafızalarda iz bırakan anlar yaratıyoruz.",
+    "text3": "Her zaman bağlantıdayız ve size her an yardımcı olmaya hazırız.",
+    "text4": "Hizmetlerimizi sürekli olarak geliştiriyor ve yeni özellikler ekliyoruz.",
+    "text5": "Çözümlerimiz sezgisel ve kolay kullanımlıdır, herkes için erişilebilir."
+  },
+  "servisesPage": {
+    "mainTitle": "Nasıl Çalışıyoruz",
+    "mainText": "Müşterilerimizin ihtiyaçlarını karşılayan kapsamlı hizmetler sunuyoruz. Ekibimiz, her projeye bireysel bir yaklaşım sağlayarak en yüksek kaliteyi ve zamanında teslimatı garanti eder.",
+
+    "title1": "Neler Sunuyoruz",
+
+    "item1": "İhtiyaç Analizi: Gereksinimlerinizi araştırıyor ve en iyi çözümleri öneriyoruz.",
+    "item2": "Tasarım: Sizin için özel çözümler geliştirmek üzere plan oluşturuyoruz.",
+    "item3": "Uygulama: Projeyi profesyonel bir şekilde hayata geçiriyoruz.",
+    "item4": "Teslimat: Hazır ürünleri zamanında teslim ediyoruz.",
+    "item5": "Özel Çözümler: Tamamen ihtiyaçlarınıza ve beklentilerinize uygun benzersiz ürünler ve hizmetler geliştiriyoruz.",
+    "item6": "Hızlı Teslimat: Ürünlerimizi olabildiğince hızlı ve güvenli bir şekilde teslim ediyoruz, böylece ürünlerimizin keyfini hemen çıkarabilirsiniz.",
+    "item7": "Danışmanlık ve Destek: Satın alma öncesi ve sonrası tüm sorularınıza cevap vermeye ve size uzman danışmanlık sağlamaya her zaman hazırız.",
+    "item8": "Düzenli Güncellemeler: Ürünlerimizi ve hizmetlerimizi sürekli olarak geliştiriyor, yeni özellikler ve olanaklar ekliyoruz.",
+
+    "btn": "koleksiyona git"
+  },
+  "cookie": {
+    "mainTitle": "Çerez Politikası",
+
+    "title1": "Çerezler nedir:",
+    "title2": "Çerezleri nasıl kullanıyoruz:",
+    "title3": "Kullandığımız çerez türleri:",
+    "title4": "Çerez yönetimi:",
+
+    "text1": "Yürürlüğe girme tarihi: 1 Ocak 2024",
+    "text2": "plinkoProduct.com, web sitemizdeki deneyiminizi geliştirmek için çerezleri kullanır.",
+    "text3": "Çerezler, web sitesinin işleyişini iyileştirmek için cihazınıza kaydedilen küçük dosyalardır.",
+    "text4": "Tarayıcı ayarlarınızı kullanarak çerezleri yönetebilirsiniz.",
+    "text5": "Web sitemizi kullanarak, bu politikada açıklanan çerezlerin kullanımını kabul etmiş olursunuz. Herhangi bir sorunuz varsa, support@plinkoproduct.com adresinden bizimle iletişime geçin.",
+
+    "item1": "Web sitesinin performansını ve kullanımını izlemek için.",
+    "item2": "Kullanıcı ayarlarını hatırlamak için.",
+    "item3": "Gerekli çerezler: Web sitesinin temel işlevselliği için gereklidir.",
+    "item4": "Analitik çerezler: Web sitesinin kullanımını izlemek ve performansını iyileştirmek için kullanılır."
+  },
+  "warunki": {
+    "mainTitle": "Kullanım Şartları",
+
+    "title1": "1. Genel Kurallar:",
+    "title2": "2. Fikri Mülkiyet:",
+    "title3": "3. Sorumluluk:",
+    "title4": "4. Değişiklikler:",
+
+    "text1": "Yürürlüğe girme tarihi: 1 Ocak 2024",
+    "text2": " plinkoProduct.com'a hoş geldiniz. Web sitemizi kullanarak aşağıdaki şartları kabul etmiş olursunuz.",
+    "text3": "Bu sitenin tüm içeriği plinkoProduct.com'a aittir. Herhangi bir yetkisiz kullanım yasaktır.",
+    "text4": "Web sitemizin kullanımından kaynaklanan herhangi bir zarardan sorumlu değiliz.",
+    "text5": "Bu şartları herhangi bir zamanda değiştirme hakkımız saklıdır. Değişikliklerden sonra web sitesini kullanmaya devam etmeniz, yeni şartları kabul ettiğiniz anlamına gelir.",
+    "text6": "Herhangi bir sorunuz varsa, support@plinkoproduct.com adresinden bizimle iletişime geçin.",
+
+    "item1": "Hizmetlerimizi kullanmak için en az 18 yaşında olmalısınız.",
+    "item2": "Web sitesini geçerli yasalara uygun olarak kullanmayı kabul ediyorsunuz."
+  },
+  "privacy": {
+    "mainTitle": "Gizlilik Politikası",
+
+    "title1": "1. Hangi bilgileri topluyoruz:",
+    "title2": "2. Bilgilerinizi nasıl kullanıyoruz:",
+    "title3": "3. Bilgilerinizi paylaşma:",
+    "title4": "4. Çerezler:",
+    "title5": "5. Veri koruma:",
+    "title6": "6. Haklarınız:",
+
+    "text1": "Yürürlüğe girme tarihi: 1 Ocak 2024",
+    "text2": "plinkoProduct.com (biz, bizim, bize) gizliliğinize saygı duyar. Bu Gizlilik Politikası, web sitemizi kullanırken kişisel verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.",
+    "text3": "Kişisel bilgilerinizi yasal zorunluluklar dışında üçüncü taraflarla paylaşmıyoruz.",
+    "text4": "Web sitemizdeki deneyiminizi iyileştirmek için çerezleri kullanıyoruz.",
+    "text5": "Kişisel verilerinizi korumak için gerekli önlemleri alıyoruz.",
+    "text6": "Kişisel verilerinize erişme veya bunları silme hakkına sahipsiniz.",
+    "text7": "Herhangi bir sorunuz varsa, support@plinkoproduct.com adresinden bizimle iletişime geçin.",
+
+    "item1": "Sizin sağladığınız kişisel bilgiler (isim, e-posta adresi vb.).",
+    "item2": "Çerezler aracılığıyla toplanan bilgiler.",
+    "item3": "Hizmetlerimizi sağlamak için.",
+    "item4": "Kullanıcı deneyiminizi iyileştirmek için."
+  },
+  "footer": {
+    "link1": "Telefon:",
+    "link2": "Email:",
+    "link3": "Adres:",
+
+    "label1": "Adınız:",
+    "label2": "Email:",
+    "label3": "Mesajınız:",
+    "button": "Gönder",
+
+    "text": "Telif Hakkı © 2024 PlinkoProduct | Tüm hakları saklıdır."
+  },
+  "cookieBanner": {
+    "text": "Bu site, deneyiminizi geliştirmek için çerezleri kullanır.",
+    "button": "Çerezleri Kabul Et"
+  },
+  "thankYou": {
+    "title": "Teşekkür Ederiz!",
+    "text": "Mesajınız başarıyla gönderildi. Size en kısa sürede geri dönüş yapacağız.",
+    "button": "Ana Sayfaya Dön"
+  },
+  "contacts": {
+    "title": "Teşekkür Ederiz!",
+    "text": "Herhangi bir sorunuz veya öneriniz varsa, size yardımcı olmaktan memnuniyet duyarız. Aşağıdaki formu kullanarak ya da aşağıdaki iletişim bilgileriyle bize ulaşabilirsiniz.",
+    "text1": "İletişim Bilgileri"
+  }
+}
