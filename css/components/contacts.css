@@ -5,12 +5,18 @@
     grid-template-columns: 1fr 1fr;
   }
 }
+
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  font-size: larger;
+}
 .contact-form {
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
-
 
 .contact-form label {
   font-size: 1.1rem;

@@ -27,7 +27,6 @@
   }
   @media (min-width: 1200px) {
     height: 650px;
-    background-attachment: fixed;
   }
 }
 .hero-title {
@@ -47,10 +46,15 @@
 }
 .hero-link {
   display: inline-block;
-  border: 1px solid darksalmon;
+  border: none;
   padding: 15px;
   border-radius: 30px;
-
-  background-color: darksalmon;
+  background-color: #ffc473;
   color: #fffafa;
+  transition: background-color 0.3s linear;
+
+  &:hover,
+  &:focus {
+    background-color: #7a4c0b;
+  }
 }

@@ -5,7 +5,7 @@ body {
   margin: 0;
 
   color: #2f4f4f;
-  font-family: var(--font-family);
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
@@ -32,7 +32,7 @@ body {
   height: 550px;
 
   background-image: url("../../img/main-bg-m.jpg");
-
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -51,6 +51,5 @@ body {
   }
   @media (min-width: 1200px) {
     height: 450px;
-    background-attachment: fixed;
   }
 }

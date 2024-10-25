@@ -1,121 +1,110 @@
 {
   "header": {
     "link1": "Privacy Policy",
-    "link2": "Terms and Conditions",
+    "link2": "Terms of Use",
     "link3": "Cookie Policy",
     "link4": "Contact"
   },
   "hero": {
-    "mainTitle": "Plinko Game",
-    "text": "A unique game developed by our team",
-    "heroBtn": "Learn more"
+    "mainTitle": "Plinko Café",
+    "text": "A unique coffee experience crafted with our own recipes",
+    "heroBtn": "Learn More"
   },
-  "servisesHome": {
+  "servicesHome": {
     "title": "Our Services",
-    "desc": "We provide a wide range of services to our customers. We guarantee your satisfaction by delivering the highest quality service.",
-    "aboutBtn": "Learn more"
+    "desc": "Plinko offers a wide range of coffee beverages to satisfy every gourmet's taste. In addition to coffee beverages, Plinko also offers a variety of desserts and pastries to perfectly complement your favorite drink.",
+    "aboutBtn": "Learn More"
   },
   "aboutHome": {
-    "title": "Who we are",
-    "desc": "We are a team that offers unique themed games and services. Our customer-focused solutions aim to provide you with the best experience.",
-    "aboutBtn": "Get to know us better"
+    "title1": "Welcome to Plinko Café!",
+    "desc1": "Plinko is not just a café, it's a place where everyone can find their favorite drink and comfort. Our venue, located in the heart of Turkey, creates a true relaxation atmosphere filled with the aroma of freshly ground coffee. Stop by Plinko and enjoy delightful coffee beverages made from the finest coffee beans.",
+    "title2": "About Us",
+    "desc2": "At Plinko Café, we strive for perfection in every cup. Our barista team carefully selects the ingredients and is always ready to prepare the freshest and most delicious coffee beverages for you. Plinko is a place where coffee culture meets Turkish hospitality. You can stop by for a quick break or enjoy a pleasant evening with friends, savoring the atmosphere and beverages.",
+    "aboutBtn": "Get to Know Us Better"
   },
   "aboutPage": {
-    "mainTitle1": "Who We Are",
-    "desc1": "We are a team specialized in unique games and services. Our projects are based on a deep understanding of the entertainment market and are focused on providing unforgettable experiences to every user.",
+    "desc1": "We are a team of passionate coffee lovers, and we created the unique Plinko Café located in the heart of Turkey. Our goal is to create a place that combines comfort, excellent taste, and outstanding service.",
+    "desc2": "We understand that coffee is not just a drink, but a philosophy. That’s why our baristas always carefully select the ingredients and prepare the beverages with love. At Plinko, every cup of coffee is the result of craftsmanship and attention to detail. We use only the finest coffee beans so that our guests can enjoy an unparalleled taste and aroma experience.",
 
-    "mainTitle": "Our Advantages",
-    "desc": "At PlinkoProduct, our goal is to provide the best service to our customers. With our experience and the services we offer, we are committed to delivering the most suitable solutions to meet the needs of our users. We continuously improve ourselves to ensure you experience the best quality and unique experiences in Turkey.",
+    "title": "Customer Reviews",
 
-    "title1": "The Best Experience in Turkey",
-    "title2": "Unforgettable Experiences",
-    "title3": "Types of Cookies We Use:",
-    "title4": "Regular Updates",
-    "title5": "User-Friendly Interface",
-
-    "text1": "We offer high-quality products and services that meet the highest standards.",
-    "text2": "We create moments that leave lasting impressions.",
-    "text3": "We are always connected and ready to assist you at any time.",
-    "text4": "We continuously improve our services and add new features.",
-    "text5": "Our solutions are intuitive and easy to use, accessible to everyone."
+    "text1": "The coffee experience at Plinko is amazing! I feel special every time I visit.",
+    "text2": "The taste of the coffee is great, and the staff are very warm and friendly.",
+    "text3": "Plinko offers quality coffee in a cozy atmosphere. I highly recommend it to everyone!",
+    "text4": "We always meet here; the coffee and desserts are truly excellent!"
   },
+  "servicesPage": {
+    "mainTitle": "Our Services",
+    "mainText": "At Plinko Café, we aim to offer our customers the best coffee and dessert experience. Each of our products is made with carefully selected ingredients to take you on an unforgettable flavor journey.",
 
-  "servisesPage": {
-    "mainTitle": "How We Work",
-    "mainText": "We provide comprehensive services that meet the needs of our clients. Our team guarantees the highest quality and timely delivery by applying a personalized approach to each project.",
+    "item1": "Experience the intense and pure taste of coffee. Start your day energetically with classic Italian espresso.",
+    "item2": "The perfect combination of coffee and milk foam. Reward yourself with a warm cappuccino.",
+    "item3": "Enjoy the soft taste of milk and the delightful aroma of coffee with a latte.",
+    "item4": "Discover the wonderful harmony of chocolate and coffee. Try our mocha for a sweet moment.",
+    "item5": "Traditional Turkish coffee prepared according to the original recipe. Every cup is a work of art.",
+    "item6": "Enhance your moment with our delicious desserts alongside your coffee.",
 
-    "title1": "What We Offer",
-
-    "item1": "Needs Analysis: We investigate your requirements and recommend the best solutions.",
-    "item2": "Design: We create a plan to develop custom solutions for you.",
-    "item3": "Implementation: We professionally execute the project.",
-    "item4": "Delivery: We deliver the finished products on time.",
-    "item5": "Custom Solutions: We develop unique products and services tailored to your needs and expectations.",
-    "item6": "Fast Delivery: We deliver our products as quickly and securely as possible, so you can enjoy them right away.",
-    "item7": "Consulting and Support: We are always ready to answer all your questions and provide expert advice before and after purchase.",
-    "item8": "Regular Updates: We continuously improve our products and services, adding new features and capabilities.",
-
-    "btn": "Go to collection"
+    "btn": "Go to the collection"
   },
   "cookie": {
     "mainTitle": "Cookie Policy",
 
-    "title1": "What are cookies:",
-    "title2": "How we use cookies:",
-    "title3": "Types of cookies we use:",
-    "title4": "Managing cookies:",
+    "title1": "What are Cookies?",
+    "title2": "How We Use Cookies:",
+    "title3": "Types of Cookies We Use:",
+    "title4": "Managing Cookies:",
 
-    "text1": "Effective date: January 1, 2024",
-    "text2": "PlinkoProduct.com uses cookies to enhance your experience on our website.",
-    "text3": "Cookies are small files stored on your device that improve the operation of the website.",
-    "text4": "You can manage cookies through your browser settings.",
-    "text5": "By using our website, you agree to the use of cookies as described in this policy. If you have any questions, please contact us at support@plinkoproduct.com.",
+    "text1": "Effective Date: January 1, 2024",
+    "text2": "PlinkoCoffee.com uses cookies to enhance your experience on our website and provide you with more personalized services.",
+    "text3": "Cookies are small files stored on your device by a website. These files are used to improve the operation of the website and optimize the user experience.",
+    "text4": "You can manage or disable cookies via your browser settings. However, disabling cookies may prevent some features of our website from functioning properly.",
+    "text5": "By using our website, you agree to the use of cookies as described in this policy. If you have any questions regarding cookies, please contact us at support@plinkocoffee.com.",
 
-    "item1": "To track website performance and usage.",
-    "item2": "To remember user settings.",
-    "item3": "Necessary cookies: Required for the basic functionality of the website.",
-    "item4": "Analytical cookies: Used to monitor website usage and improve performance."
+    "item1": "To monitor the performance of the website and enhance your experience.",
+    "item2": "To remember your user settings and provide better service.",
+    "item3": "Necessary cookies: Essential for the basic functionality of the website. For example, to remember your shopping cart or protect your login information.",
+    "item4": "Analytical cookies: Used to monitor website usage and improve performance. These cookies help us understand how our website is being used."
   },
-  "warunki": {
-    "mainTitle": "Terms and Conditions",
+  "terms": {
+    "mainTitle": "Terms of Use",
 
     "title1": "1. General Rules:",
     "title2": "2. Intellectual Property:",
-    "title3": "3. Responsibility:",
+    "title3": "3. Liability:",
     "title4": "4. Changes:",
 
-    "text1": "Effective date: January 1, 2024",
-    "text2": "Welcome to PlinkoProduct.com. By using our website, you agree to the following terms.",
-    "text3": "All content on this site is owned by PlinkoProduct.com. Any unauthorized use is prohibited.",
-    "text4": "We are not responsible for any damages arising from the use of our website.",
-    "text5": "We reserve the right to change these terms at any time. Continuing to use the site after changes means you accept the new terms.",
-    "text6": "If you have any questions, please contact us at support@plinkoproduct.com.",
+    "text1": "Effective Date: January 1, 2024",
+    "text2": "Welcome to PlinkoCoffee.com. By using our website, you agree to the following terms.",
+    "text3": "All content on this site, including photos and logos, belongs to PlinkoCoffee.com. Unauthorized use of the content is prohibited.",
+    "text4": "We are not liable for any damages resulting from the use of our website or services.",
+    "text5": "We reserve the right to change these terms at any time. By continuing to use the website after changes, you accept the new terms.",
+    "text6": "If you have any questions, please contact us at support@plinkocoffee.com.",
 
-    "item1": "You must be at least 18 years old to use our services.",
-    "item2": "You agree to use the site in accordance with applicable laws."
+    "item1": "You must be at least 18 years old to use our services and shop on our website.",
+    "item2": "You agree to use the website in accordance with applicable laws."
   },
   "privacy": {
     "mainTitle": "Privacy Policy",
 
-    "title1": "1. What information we collect:",
-    "title2": "2. How we use your information:",
-    "title3": "3. Sharing your information:",
+    "title1": "1. What Information We Collect:",
+    "title2": "2. How We Use Your Information:",
+    "title3": "3. Sharing Your Information:",
     "title4": "4. Cookies:",
-    "title5": "5. Data protection:",
-    "title6": "6. Your rights:",
+    "title5": "5. Data Protection:",
+    "title6": "6. Your Rights:",
 
-    "text1": "Effective date: January 1, 2024",
-    "text2": "PlinkoProduct.com (we, us, our) respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal data when you use our website.",
+    "text1": "Effective Date: January 1, 2024",
+    "text2": "PlinkoCoffee.com (we, our, us) respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when using our website.",
     "text3": "We do not share your personal information with third parties except as required by law.",
-    "text4": "We use cookies to improve your experience on the site.",
-    "text5": "We take measures to protect your personal data.",
-    "text6": "You have the right to access or delete your personal information.",
-    "text7": "If you have any questions, please contact us at support@plinkoproduct.com.",
+    "text4": "We use cookies to improve your experience on our website and provide you with more personalized services.",
+    "text5": "We take the necessary measures to protect your personal data.",
+    "text6": "You have the right to access, correct, or delete your personal data.",
+    "text7": "If you have any questions regarding privacy, please contact us at support@plinkocoffee.com.",
 
     "item1": "Personal information you provide (name, email address, etc.).",
     "item2": "Information collected through cookies.",
     "item3": "To provide our services.",
-    "item4": "To improve user experience."
+    "item4": "To improve your user experience."
   },
   "footer": {
     "link1": "Phone:",
@@ -127,21 +116,22 @@
     "label3": "Your Message:",
     "button": "Send",
 
-    "text": "Copyright © 2024 PlinkoProduct | All rights reserved."
+    "text": "Copyright © 2024 PlinkoProduct | All Rights Reserved."
   },
   "cookieBanner": {
-  "text": "This site uses cookies to improve your experience.",
-  "button": "Accept Cookies"
-},
-"thankYou": {
-  "title": "Thank You!",
-  "text": "Your message has been sent successfully. We will get back to you as soon as possible.",
-  "button": "Return to Homepage"
-},
-"contacts": {
-  "title": "Thank You!",
-  "text": "If you have any questions or suggestions, we would be happy to assist you. You can reach us using the form below or through the contact information provided.",
-  "text1": "Contact Information"
+    "text": "This site uses cookies to enhance your experience.",
+    "button": "Accept Cookies"
+  },
+  "thankYou": {
+    "title": "Thank You!",
+    "text": "Your message has been successfully sent. We will get back to you as soon as possible.",
+    "button": "Return to Homepage"
+  },
+  "contacts": {
+    "title": "You can find Plinko Café at:",
+    "text1": "You can reach us by phone at:",
+    "text2": "or contact us by email at:",
+    "text3": "Address:"
+  }
 }
 
-}

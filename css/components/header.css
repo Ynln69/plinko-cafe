@@ -16,7 +16,7 @@
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
-  background-color: #2f303a;
+  background-color: #563a28;
 }
 .header-container {
   display: flex;
@@ -33,6 +33,13 @@
     color: #fffafa;
   }
 }
+.header-nav a {
+  transition: color 0.3s linear;
+  &:hover,
+  &:focus {
+    color: #a06819;
+  }
+}
 .header-select {
   border: none;
   padding: 10px;
@@ -44,4 +51,7 @@
 .header-select option {
   background-color: #f5f5f5;
   color: #2f4f4f;
+}
+.active {
+  color: #7a4c0b;
 }
